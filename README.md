@@ -1,1 +1,2 @@
 # CloudPadi
+CloudPadi is your fun space were newbies are paired into teams to learn,practice and execute realworld cloud projects guided by Professionals,Mentors and Patrons. We want to level up and gain the needed experince to land a job. We aim in the near future to bid for paid cloud projects to assist the unemployed skilled members become self-employed.  CloudPadi is  made by africans for africans and open to the World.  
